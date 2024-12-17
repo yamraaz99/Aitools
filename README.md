@@ -20,7 +20,7 @@
 #### Steps  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/news-summarizer.git
+   git clone https://github.com/yamraaz99/QuickNewsWriter.git
    cd news-summarizer
    ```
 
